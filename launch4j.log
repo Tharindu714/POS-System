@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Tharindu\Desktop\Chanaka Electronics\Chanaka_Electronics.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Tharindu\Desktop\Chanaka Electronics\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-11
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (OK)
+Version string: 1.011.000_018 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Tharindu\Desktop\Chanaka Electronics\Chanaka_Electronics.exe"
+Args length:	76/32768 chars
+Exit code:	0
